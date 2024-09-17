@@ -40,3 +40,13 @@ function test(){console.log("test");
 '''
 
 ## Tables
+| Language  | Rating |
+| ----------| -------|
+| HTML      | 5      |
+| Javascript| 7      |
+| CSS       | 9      |
+
+# Github Flavour
+
+>Note
+>This is a note!
