@@ -11,3 +11,13 @@ Make a change!
 This text is **bold**
 This text is _italics_.
 This text is **_bold and italics_**.
+
+## Lists
+This is an ordered list:
+1. Item number one
+2. Item number two
+3. Item number three
+This is an unordered list:
+-Item Number one
+-Item number two
+-Item number three
