@@ -48,5 +48,5 @@ function test(){console.log("test");
 
 # Github Flavour
 
->[!Note]
+>[!Note]  
 >This is a note!
