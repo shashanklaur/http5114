@@ -24,3 +24,9 @@ This is an unordered list:
 
 ## Links
 This is a link to my [my portfolio](https://codeadam.ca).
+
+# Images
+This is an image:
+![BrickMMO Planet](Non dual.jpeg)
+
+## Code
