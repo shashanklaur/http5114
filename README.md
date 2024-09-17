@@ -27,7 +27,7 @@ This is a link to my [my portfolio](https://codeadam.ca).
 
 # Images
 This is an image:
-![BrickMMO Planet](Non dual.jpeg)
+![BrickMMO Planet](Nondual.jpeg)
 
 ## Code
 We can put inline code by using a tic.
@@ -48,5 +48,5 @@ function test(){console.log("test");
 
 # Github Flavour
 
->Note  
+>[Note
 >This is a note!
